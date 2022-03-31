@@ -35,75 +35,75 @@ I'm Michael Thornes, aka Zytekaron. I'm an 18-year-old software developer from S
 
 ##### General
 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=Arch-Linux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=flat-square&logo=Intel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
 
-![KDE](https://img.shields.io/badge/KDE-1D99F3.svg?style=flat-square&logo=KDE&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=flat-square&logo=Minecraft&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
-![OBS](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=flat-square&logo=OBS-Studio&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-1D99F3.svg?style=for-the-badge&logo=KDE&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logo=Minecraft&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+![OBS](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white)
 
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=Discord&logoColor=white)
-![Amazon](https://img.shields.io/badge/Amazon-FF9900.svg?style=flat-square&logo=Amazon&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914.svg?style=flat-square&logo=Netflix&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=flat-square&logo=Twitch&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=flat-square&logo=Spotify&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat-square&logo=Telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914.svg?style=for-the-badge&logo=Netflix&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)
 
-![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat-square&logo=Brave&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=flat-square&logo=DuckDuckGo&logoColor=white)
-![Adafruit](https://img.shields.io/badge/Adafruit-000000.svg?style=flat-square&logo=Adafruit&logoColor=white)
-![Dark Reader](https://img.shields.io/badge/Dark%20Reader-141E24.svg?style=flat-square&logo=Dark-Reader&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833.svg?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Adafruit](https://img.shields.io/badge/Adafruit-000000.svg?style=for-the-badge&logo=Adafruit&logoColor=white)
+![Dark Reader](https://img.shields.io/badge/Dark%20Reader-141E24.svg?style=for-the-badge&logo=Dark-Reader&logoColor=white)
 
-![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC.svg?style=flat-square&logo=Bitwarden&logoColor=white)
-![Authy](https://img.shields.io/badge/Authy-EC1C24.svg?style=flat-square&logo=Authy&logoColor=white)
-![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=flat-square&logo=Keybase&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC.svg?style=for-the-badge&logo=Bitwarden&logoColor=white)
+![Authy](https://img.shields.io/badge/Authy-EC1C24.svg?style=for-the-badge&logo=Authy&logoColor=white)
+![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white)
 
 ##### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=flat-square&logo=Sentry&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat-square&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat-square&logo=Cloudflare&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=flat-square&logo=GoLand&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ##### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=Spring-Boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ##### Learning
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=flat-square&logo=Udemy&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=C++&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D.svg?style=flat-square&logo=Zig&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=Zig&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?style=flat-square&logo=The-Algorithms&logoColor=white)
-![Bitrise](https://img.shields.io/badge/Bitrise-683D87.svg?style=flat-square&logo=Bitrise&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=flat-square&logo=OpenSSL&logoColor=white)
+![The Algorithms](https://img.shields.io/badge/The%20Algorithms-00BCB4.svg?style=for-the-badge&logo=The-Algorithms&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87.svg?style=for-the-badge&logo=Bitrise&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=OpenSSL&logoColor=white)
 
 ##### Servers
 
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=Vultr&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white)
 
-![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white)
