@@ -61,6 +61,18 @@ I'm Michael Thornes, aka Zytekaron. I'm an 18-year-old software developer from S
 ![Authy](https://img.shields.io/badge/Authy-EC1C24.svg?style=flat-square&logo=Authy&logoColor=white)
 ![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=flat-square&logo=Keybase&logoColor=white)
 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+<br>
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=Spring-Boot&logoColor=white)
+<br>
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
@@ -74,18 +86,6 @@ I'm Michael Thornes, aka Zytekaron. I'm an 18-year-old software developer from S
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=flat-square&logo=GoLand&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat-square&logo=npm&logoColor=white)
-<br>
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=Spring-Boot&logoColor=white)
-<br>
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 
 ### Learning
 
