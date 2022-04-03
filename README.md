@@ -4,8 +4,8 @@ I'm Michael Thornes, aka Zytekaron. I'm an 18-year-old software developer from S
 
 ## Projects
 
-- [SkLang](https://github.com/Zytekaron/sk-js), a high-level, general-purpose programming language (early stages)
-- [LinFlow](https://github.com/Zytekaron/LinFloww), a tool for a different kind of keyboard macro on Linux
+- SkLang, a high-level, general-purpose programming language (early stages)
+- [LinFlow](https://github.com/Zytekaron/LinFlow), a tool for a different kind of keyboard macro on Linux
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement a [BusKill](https://github.com/BusKill) kill cord alternative
 - [advent-of-code](https://github.com/Zytekaron/advent-of-code), my Advent of Code solutions
