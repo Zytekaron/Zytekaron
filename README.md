@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
-I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Seattle, WA. I'm particularly interested in backend software development and applied security/cryptography. I've worked on a variety of projects in the last 5 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and Java, and occasionally a couple others. btw I use arch.
+I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Seattle, WA. I'm particularly interested in backend software development and cybersecurity/cryptography. I've worked on a variety of projects in the last 6 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and Java, and occasionally a couple others.
 
 ## Projects
 
 - SkLang, a high-level, general-purpose programming language (early stages)
-- [LinFlow](https://github.com/Zytekaron/LinFlow), a tool for a different kind of keyboard macro on Linux
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
-- [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement a [BusKill](https://github.com/BusKill) kill cord alternative
+- [structs](https://github.com/Zytekaron/structs), a Go library containing various generic data structures compatible with Go 1.18+
+- [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
 - [advent-of-code](https://github.com/Zytekaron/advent-of-code), my Advent of Code solutions
+- [LinFlow](https://github.com/Zytekaron/LinFlow), a tool for a different kind of keyboard macro on Linux
 
 ## Contact
 
@@ -23,6 +24,8 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
     <img src="https://visitor-badge.glitch.me/badge?page_id=zytekaron.zytekaron">
 </div>
 
+<br>
+
 <div>
     <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zytekaron&theme=dark" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Zytekaron&count_private=true&show_icons=true&theme=dark"/>
@@ -33,27 +36,29 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/
 
-Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit DarkReader Trello Sentry AWS QEMU Tails VLC YouTube Twitter Semver Namecheap Quora Medium PayPal CashApp Venmo PostgreSQL SQLite TOR Elixir -->
+Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit DarkReader Trello Sentry AWS QEMU Tails VLC YouTube Twitter Semver Namecheap Quora Medium PayPal CashApp Venmo PostgreSQL SQLite TOR Elixir
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=Arch-Linux&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
+![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=flat-square&logo=Keybase&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-F7A41D.svg?style=flat-square&logo=Rust&logoColor=black)
+
+-->
 
 ### General
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=Arch-Linux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-<br>
 ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat-square&logo=Brave&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=flat-square&logo=Minecraft&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
 <br>
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=Discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat-square&logo=Telegram&logoColor=white)
 <br>
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC.svg?style=flat-square&logo=Bitwarden&logoColor=white)
-![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=flat-square&logo=Keybase&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 ### Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-F7A41D.svg?style=flat-square&logo=Rust&logoColor=black)
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
