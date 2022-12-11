@@ -9,6 +9,7 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
 - [structs](https://github.com/Zytekaron/structs), a Go library containing various generic data structures compatible with Go 1.18+
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
 - [advent-of-code](https://github.com/Zytekaron/advent-of-code), my Advent of Code solutions
+- [otp-cli](https://github.com/Zytekaron/otp-cli), a [One Time Pad](https://en.wikipedia.org/wiki/One-time_pad) CLI utility
 
 ## Contact
 
