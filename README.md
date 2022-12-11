@@ -28,7 +28,6 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
 <br>
 
 <div>
-    <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zytekaron&theme=dark" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Zytekaron&count_private=true&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zytekaron&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
 </div>
