@@ -42,6 +42,7 @@ Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white)
 ![Keybase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=flat-square&logo=Keybase&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-F7A41D.svg?style=flat-square&logo=Rust&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 
 -->
 
@@ -83,7 +84,6 @@ Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=flat-square&logo=GoLand&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 
 ### Deployment
 
