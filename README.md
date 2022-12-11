@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
-I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Seattle, WA. I'm particularly interested in backend software development and cybersecurity/cryptography. I've worked on a variety of projects in the last 6 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and Java, and occasionally a couple others.
+I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 6 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and Java, and occasionally a couple others.
 
 ## Projects
 
