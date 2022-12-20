@@ -18,6 +18,13 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
 - [Discord: Zytekaron#0572](https://discord.com/users/272659147974115328)
 - [Telegram: @Zytekaron](https://t.me/Zytekaron)
 - [zytekaron@gmail.com](mailto:zytekaron@gmail.com)
+- [zytekaron@proton.me](mailto:zytekaron@proton.me)
+
+My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
+- [Keybase Link](https://keybase.io/zytekaron/pgp_keys.asc?fingerprint=2F7E89CF7497BD52BB84DBCF1748C7E588D0646C)
+- [Ubuntu Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C)
+- [OpenPGP Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C) (auto-download)
+- [MIT Key Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C) (slow to load)
 
 ## Stats
 
