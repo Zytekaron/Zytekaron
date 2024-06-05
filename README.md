@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
-I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 6 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and Java, and occasionally a couple others.
+I'm Michael Thornes, aka Zytekaron. I'm a 20-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
 
 ## Projects
 
 - SkLang, a high-level, general-purpose programming language (early stages)
+- [fs](https://github.com/Zytekaron/fs), a simple file server hosted over at [fs.zyte.dev](https://fs.zyte.dev)
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [jvar.js](https://github.com/Zytekaron/otp-cli), a Node.js library containing various utilities that I use in my own projects
-- [structs](https://github.com/Zytekaron/structs), a Go library containing various generic data structures compatible with Go 1.18+
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
 - [advent-of-code](https://github.com/Zytekaron/advent-of-code), my Advent of Code solutions
 - [otp-cli](https://github.com/Zytekaron/otp-cli), a [One Time Pad](https://en.wikipedia.org/wiki/One-time_pad) CLI utility
@@ -15,10 +15,10 @@ I'm Michael Thornes, aka Zytekaron. I'm a 19-year-old software developer from Se
 ## Contact
 
 - [Discord: Zytekaron's Development](https://discord.gg/FfzwgUm)
-- [Discord: Zytekaron#0572](https://discord.com/users/272659147974115328)
+- [Discord: @Zytekaron](https://discord.com/users/272659147974115328)
 - [Telegram: @Zytekaron](https://t.me/Zytekaron)
-- [zytekaron@gmail.com](mailto:zytekaron@gmail.com)
-- [zytekaron@proton.me](mailto:zytekaron@proton.me)
+- [Signal: @Zytekaron.01](https://t.me/Zytekaron)
+- [michael@zyte.me](mailto:michael@zyte.me)
 
 My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 - [Keybase Link](https://keybase.io/zytekaron/pgp_keys.asc?fingerprint=2F7E89CF7497BD52BB84DBCF1748C7E588D0646C)
@@ -29,7 +29,7 @@ My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 ## Stats
 
 <div>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zytekaron.zytekaron">
+    <img src="https://profile-counter.glitch.me/Zytekaron/count.svg">
 </div>
 
 <br>
