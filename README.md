@@ -1,23 +1,21 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
 <p align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white)
-<br>
-![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=flat-square&logo=Alpine-Linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=Arch-Linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=macOS&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000.svg?style=flat-square&logo=iOS&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains Badge">
+  <br>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white" alt="macOS Badge">
+  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat-square&logo=Alpine-Linux&logoColor=white" alt="Alpine Linux Badge">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux Badge">
 </p>
 
 I'm Michael Thornes, aka Zytekaron. I'm a 21-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
 
 ## Projects
 
-- SkLang, a high-level, general-purpose programming language (early stages)
+<!-- - SkLang, a high-level, general-purpose programming language (early stages) -->
 <!-- - [fs](https://github.com/Zytekaron/fs), a simple file server hosted over at [fs.zyte.dev](https://fs.zyte.dev) -->
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [jvar.js](https://github.com/Zytekaron/otp-cli), a Node.js library containing various utilities that I use in my own projects
@@ -39,6 +37,11 @@ My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 - [OpenPGP Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C) (auto-download)
 - [MIT Key Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C) (slow to load)
 
+OpenAlias addresses:
+- XMR: `xmr@zyte.me`
+- BTC: `btc@zyte.me` ([Segwit P2WPKH](https://bitcoindev.network/guides/bitcoinjs-lib/native-segwit-p2wpkh) | [BIP 141](https://bips.dev/141))
+- BTC: `bsp@zyte.me` ([Silent Payments](https://silentpayments.xyz) | [BIP 352](https://bips.dev/352))
+
 ## Stats
 
 <div>
@@ -52,9 +55,11 @@ My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zytekaron&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
 </div>
 
+<!--
+
 ## I've become a bit of a badge collector...
 
-<!-- https://home.aveek.io/GitHub-Profile-Badges/
+https://home.aveek.io/GitHub-Profile-Badges/
 
 Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit DarkReader Trello Sentry AWS QEMU Tails VLC YouTube Twitter Semver Namecheap Quora Medium PayPal CashApp Venmo PostgreSQL SQLite TOR Elixir
 
