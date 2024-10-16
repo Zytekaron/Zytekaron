@@ -1,5 +1,14 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white)
+<br>
+![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=flat-square&logo=Alpine-Linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat-square&logo=Arch-Linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=macOS&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000.svg?style=flat-square&logo=iOS&logoColor=white)
+
 I'm Michael Thornes, aka Zytekaron. I'm a 20-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
 
 ## Projects
@@ -51,8 +60,6 @@ Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit 
 ![Rust](https://img.shields.io/badge/Rust-F7A41D.svg?style=flat-square&logo=Rust&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
 
--->
-
 ### General
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat-square&logo=Brave&logoColor=white)
@@ -99,3 +106,4 @@ Excluded: Intel Linux KDE DuckDuckGo Amazon Netflix Twitch Spotify OBS Adafruit 
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=Vultr&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=flat-square&logo=NGINX&logoColor=white)
 
+-->
