@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi there! I'm <a href="https://zyte.dev" target="_blank">Zytekaron</a></h1>
 
+<p align="center">
+
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=flat-square&logo=JetBrains&logoColor=white)
@@ -9,12 +11,14 @@
 ![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=macOS&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?style=flat-square&logo=iOS&logoColor=white)
 
-I'm Michael Thornes, aka Zytekaron. I'm a 20-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
+</p>
+
+I'm Michael Thornes, aka Zytekaron. I'm a 21-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
 
 ## Projects
 
 - SkLang, a high-level, general-purpose programming language (early stages)
-- [fs](https://github.com/Zytekaron/fs), a simple file server hosted over at [fs.zyte.dev](https://fs.zyte.dev)
+<!-- - [fs](https://github.com/Zytekaron/fs), a simple file server hosted over at [fs.zyte.dev](https://fs.zyte.dev) -->
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [jvar.js](https://github.com/Zytekaron/otp-cli), a Node.js library containing various utilities that I use in my own projects
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
