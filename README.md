@@ -45,9 +45,7 @@ OpenAlias addresses:
 
 ## Stats
 
-<div>
-    ![](https://komarev.com/ghpvc/?username=Zytekaron)
-</div>
+![](https://komarev.com/ghpvc/?username=Zytekaron)
 
 <br>
 
