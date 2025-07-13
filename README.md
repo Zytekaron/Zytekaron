@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux Badge">
 </p>
 
-I'm Michael Thornes, aka Zytekaron. I'm a 21-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 7 years, ranging from simple utility programs to advanced Discord bots and APIs. I write code in Go, JavaScript, and occasionally some others.
+I'm Michael Thornes, aka Zytekaron. I'm a 22-year-old software developer from Seattle, WA. I'm particularly interested in backend software development, cybersecurity, and cryptography. I've worked on a variety of projects in the last 8 years, ranging from simple utility programs to advanced Discord bots and cryptography tools. I write code in Go, JavaScript, and occasionally some others.
 
 ## Projects
 
-<!-- - SkLang, a high-level, general-purpose programming language (early stages) -->
-<!-- - [fs](https://github.com/Zytekaron/fs), a simple file server hosted over at [fs.zyte.dev](https://fs.zyte.dev) -->
+- [galois-js](https://github.com/Zytekaron/galois-js) & [galois-go](https://github.com/Zytekaron/galois-go), compatible libraries which implement Galois fields
+- [shamir-js](https://github.com/Zytekaron/shamir-js) & [shamir-go](https://github.com/Zytekaron/shamir-go), compatible libraries which implement flexible Shamir Secret Sharing
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [jvar.js](https://github.com/Zytekaron/otp-cli), a Node.js library containing various utilities that I use in my own projects
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
@@ -26,10 +26,11 @@ I'm Michael Thornes, aka Zytekaron. I'm a 21-year-old software developer from Se
 ## Contact
 
 - [Discord: Zytekaron's Development](https://discord.gg/FfzwgUm)
+- [Discord: Zytekaron's Projects](https://discord.gg/rJd3xzFA8T)
 - [Discord: @Zytekaron](https://discord.com/users/272659147974115328)
 - [Telegram: @Zytekaron](https://t.me/Zytekaron)
-- [Signal: @Zytekaron.01](https://t.me/Zytekaron)
-- [michael@zyte.me](mailto:michael@zyte.me)
+- [Signal: @Zytekaron.01](https://signal.me/#eu/wo3gsalDjoF3uO9wW08I6EMGJyjA17b7eXhEdFo6WD9i7aWIPP1LU4uV_LhvgVZS)
+- [michael@zyte.dev](mailto:michael@zyte.dev)
 
 My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 - [Keybase Link](https://keybase.io/zytekaron/pgp_keys.asc?fingerprint=2F7E89CF7497BD52BB84DBCF1748C7E588D0646C)
@@ -38,9 +39,9 @@ My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 - [MIT Key Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x2F7E89CF7497BD52BB84DBCF1748C7E588D0646C) (slow to load)
 
 OpenAlias addresses:
-- XMR: `xmr@zyte.me`
-- BTC: `btc@zyte.me` ([Segwit P2WPKH](https://bitcoindev.network/guides/bitcoinjs-lib/native-segwit-p2wpkh) | [BIP 141](https://bips.dev/141))
-- BTC: `bsp@zyte.me` ([Silent Payments](https://silentpayments.xyz) | [BIP 352](https://bips.dev/352))
+- XMR: `xmr@zyte.dev`
+- BTC: `btc@zyte.dev` ([Segwit P2WPKH](https://bitcoindev.network/guides/bitcoinjs-lib/native-segwit-p2wpkh) | [BIP 141](https://bips.dev/141))
+- BTC: `bsp@zyte.dev` ([Silent Payments](https://silentpayments.xyz) | [BIP 352](https://bips.dev/352))
 
 ## Stats
 
