@@ -15,13 +15,13 @@ I'm Michael Thornes, aka Zytekaron. I'm a 22-year-old software developer from Se
 
 ## Projects
 
-- [galois-js](https://github.com/Zytekaron/galois-js) & [galois-go](https://github.com/Zytekaron/galois-go), compatible libraries which implement Galois fields
-- [shamir-js](https://github.com/Zytekaron/shamir-js) & [shamir-go](https://github.com/Zytekaron/shamir-go), compatible libraries which implement flexible Shamir Secret Sharing
+- [galois-js](https://github.com/Zytekaron/galois-js) & [galois-go](https://github.com/Zytekaron/galois-go), compatible libraries which implement [Galois/finite fields](https://en.wikipedia.org/wiki/Finite_field)
+- [shamir-js](https://github.com/Zytekaron/shamir-js) & [shamir-go](https://github.com/Zytekaron/shamir-go), compatible libraries which implement [Shamir Secret Sharing](https://en.wikipedia.org/wiki/Shamir's_secret_sharing)
 - [gotil](https://github.com/Zytekaron/gotil), a Go library containing various utilities that I use in my own projects
 - [jvar.js](https://github.com/Zytekaron/otp-cli), a Node.js library containing various utilities that I use in my own projects
 - [xbuskill](https://github.com/Zytekaron/xbuskill), a Linux program to implement an alternative to [BusKill](https://github.com/BusKill)
 - [advent-of-code](https://github.com/Zytekaron/advent-of-code), my Advent of Code solutions
-- [otp-cli](https://github.com/Zytekaron/otp-cli), a [One Time Pad](https://en.wikipedia.org/wiki/One-time_pad) CLI utility
+- [otp-cli](https://github.com/Zytekaron/otp-cli), a CLI utility for [One Time Pads](https://en.wikipedia.org/wiki/One-time_pad)
 
 ## Contact
 
@@ -40,13 +40,13 @@ My PGP key fingerprint: `2F7E89CF7497BD52BB84DBCF1748C7E588D0646C`
 
 OpenAlias addresses:
 - XMR: `xmr@zyte.dev`
-- BTC: `btc@zyte.dev` ([Segwit P2WPKH](https://bitcoindev.network/guides/bitcoinjs-lib/native-segwit-p2wpkh) | [BIP 141](https://bips.dev/141))
+- BTC: `btc@zyte.dev` ([Segwit P2WPKH](https://bitcoincore.org/en/segwit_wallet_dev/) | [BIP 141](https://bips.dev/141))
 - BTC: `bsp@zyte.dev` ([Silent Payments](https://silentpayments.xyz) | [BIP 352](https://bips.dev/352))
 
 ## Stats
 
 <div>
-    <img src="https://profile-counter.glitch.me/Zytekaron/count.svg">
+    ![](https://komarev.com/ghpvc/?username=Zytekaron)
 </div>
 
 <br>
